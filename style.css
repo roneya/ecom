@@ -866,23 +866,13 @@ margin-top: 20px;
     }
     
 
-    #sm-banner .banner-box2 {
+  
+
+
+   
+#sm-banner .banner-box2 {
         margin-top: 20px;
-}   
-
-
-#sm-banner .banner-box {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: flex-start;
-    background-image: url("assets/banner/b17.jpg");
-    min-width: 40vw;
-    height: 50vh;
-    background-size: cover;
-    background-position: center;
-    padding: 30px;
-}
+} 
 #banner3 {
    
     padding: 0 20px;
